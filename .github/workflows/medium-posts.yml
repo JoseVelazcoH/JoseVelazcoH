@@ -17,5 +17,4 @@ jobs:
         with:
           feed_list: "https://medium.com/feed/@velazco.joseh"
           max_post_count: 5
-          template: "- []()"
-          description_max_length: 140
+          template: "$newline- [$title]($url)"
