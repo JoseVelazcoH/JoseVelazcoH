@@ -24,7 +24,7 @@ jobs:
       - name: Remove progress bar
         run: |
           for f in dist/*.svg; do
-            sed -i -E 's#<rect class="u [^>]*/>##g; s#(viewBox="[^ ]+ [^ ]+ [^ ]+) 192" (width="[^"]+") height="192"#\1 160" \2 height="160"#' "$f"
+            sudo sed -i -E 's#<rect class="u [^>]*/>##g; s#(viewBox="[^ ]+ [^ ]+ [^ ]+) 192" (width="[^"]+") height="192"#\1 160" \2 height="160"#' "$f"
           done
 
       - uses: crazy-max/ghaction-github-pages@v4
