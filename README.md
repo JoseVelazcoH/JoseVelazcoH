@@ -37,7 +37,7 @@ I design and ship AI systems end to end: from the data pipelines that feed them 
 
 I write on Medium about data engineering, geospatial data and applied AI.
 
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START -->- [Teaching a Decision Model to Listen: What I Learned Building a Mood-Based Playlist with Laya](https://medium.com/@velazco.joseh/teaching-a-decision-model-to-listen-what-i-learned-building-a-mood-based-playlist-with-laya-82d39dfa11ea?source=rss-674b24ec5488------2):  
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect with me
